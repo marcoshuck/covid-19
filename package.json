@@ -1,0 +1,21 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "A covid-19 front-end application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoshuck/covid-19.git"
+  },
+  "keywords": [
+    "covid",
+    "coronavirus",
+    "app",
+    "covid-19"
+  ],
+  "author": "Marcos A. Huck <marcos@huck.com.ar>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcoshuck/covid-19/issues"
+  },
+  "homepage": "https://github.com/marcoshuck/covid-19#readme"
+}
