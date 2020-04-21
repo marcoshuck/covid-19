@@ -12,10 +12,10 @@
       <template slot="end">
         <b-navbar-item tag="div">
           <div class="buttons">
-            <a class="button is-primary">
+            <a class="button is-primary" href="https://marcos.huck.com.ar">
               <strong>Marcos Huck</strong>
             </a>
-            <a class="button is-light">
+            <a class="button is-light" href="https://github.com/marcoshuck/covid-19">
               Repositorio
             </a>
           </div>
